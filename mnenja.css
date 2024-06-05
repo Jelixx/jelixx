@@ -179,7 +179,7 @@
 
 /*glavni del*/
 #testimonials {
-  background-image: url('../slike/bc4.jpg');
+  background-image: url('slike/bc4.jpg');
   background-size: cover;
   padding: 50px 0;
   }
