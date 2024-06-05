@@ -201,7 +201,7 @@ header {
     /*glavni del*/
 
     #contact {
-      background-image: url('../slike/bc4.jpg');
+      background-image: url('slike/bc4.jpg');
       background-size: cover;
         padding: 2rem 0;
     }
