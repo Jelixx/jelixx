@@ -63,7 +63,7 @@ nav ul li a {
 }
 
 main {
-  background-image: url('../slike/bc4.jpg');
+  background-image: url('slike/bc4.jpg');
   background-size: cover;
   padding: 2rem;
   text-align: center;
